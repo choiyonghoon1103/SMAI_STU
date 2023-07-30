@@ -7,3 +7,5 @@ git reset --hard 8c4e551402a54fbdd7b2768a5161317f7f39f4c7
 docker build -t cyberbattle:1.1 .
 
 MARLon Dockerfile edit
+
+it is essential that nvidia-docker
